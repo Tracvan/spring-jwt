@@ -1,4 +1,4 @@
-package com.codegym.config.service;
+package com.codegym.config;
 
 import org.springframework.security.web.context.AbstractSecurityWebApplicationInitializer;
 
